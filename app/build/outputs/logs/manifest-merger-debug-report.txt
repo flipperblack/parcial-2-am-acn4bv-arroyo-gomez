@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\proprietario\.gradle\caches\transforms-3\5c03a6106f6a33a9086ec199aee397cf\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\proprietario\.gradle\caches\transforms-3\47d2cfa96da6812a2cb398065fcc7c1d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\proprietario\.gradle\caches\transforms-3\01edb90cdd05efdd9e4a2264e436abfe\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -46,6 +46,7 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\proprietario\.gradle\caches\transforms-3\a92339d64ecf2833eb7874549fa50cb8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\555cc6d1bb146761eac0d5475c1d1eca\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 	package
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:4:5-37
 		INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml
@@ -56,8 +57,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\proprie
 	xmlns:android
 		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:5:5-27:19
-INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:7:5-40:19
+INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:7:5-40:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\proprietario\.gradle\caches\transforms-3\5c03a6106f6a33a9086ec199aee397cf\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\proprietario\.gradle\caches\transforms-3\5c03a6106f6a33a9086ec199aee397cf\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\proprietario\.gradle\caches\transforms-3\47d2cfa96da6812a2cb398065fcc7c1d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -79,45 +80,81 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pr
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:10:9-54
 	android:roundIcon
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:13:9-54
 	tools:targetApi
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:16:9-29
 	android:icon
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:13:9-48
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:15:9-48
 	android:dataExtractionRules
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.grupofacil.MainActivity
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:15:9-23:20
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.grupofacil.ResumenActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:9-86
 	android:exported
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:51-74
 	android:name
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.example.grupofacil.ConfiguracionActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:9-92
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:57-80
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:19-56
+activity#com.example.grupofacil.ParticipantesActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:9-92
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:57-80
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:19-56
+activity#com.example.grupofacil.DescripcionActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:9-90
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:55-78
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:19-54
+activity#com.example.grupofacil.NombreActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:23:9-85
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:23:50-73
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:23:19-49
+activity#com.example.grupofacil.VerGrupoActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:24:9-87
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:24:52-75
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:24:19-51
+activity#com.example.grupofacil.MainActivity
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:32:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:24:9-26:57
+ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:37:9-39:57
 	android:resource
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:26:13-54
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:39:13-54
 	android:name
-		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:25:13-43
+		ADDED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:38:13-43
 uses-sdk
 INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\proprietario\Local Sites\maqueta2\parcial-2-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml

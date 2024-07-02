@@ -3168,6 +3168,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id backButton
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3256,6 +3257,7 @@ id east
 id edge
 id edit_query
 id elastic
+id eliminarButton
 id embed
 id end
 id endToStart
@@ -3269,6 +3271,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+id finalizarButton
 id fitCenter
 id fitEnd
 id fitStart
@@ -3383,6 +3386,8 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nameInput
+id nameLabel
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3431,6 +3436,8 @@ id parent_matrix
 id participantInput
 id participantListLayout
 id participantsLabel
+id participantsPerGroupInput
+id participantsPerGroupLabel
 id password_toggle
 id path
 id pathRelative
@@ -3446,6 +3453,10 @@ id radio
 id ratio
 id rectangles
 id report_drawn
+id resumenDescription
+id resumenGrupos
+id resumenScrollView
+id resumenTitle
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3567,6 +3578,10 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id verGrupoDescription
+id verGrupoParticipants
+id verGrupoScrollView
+id verGrupoTitle
 id vertical_only
 id view_offset_helper
 id view_transition

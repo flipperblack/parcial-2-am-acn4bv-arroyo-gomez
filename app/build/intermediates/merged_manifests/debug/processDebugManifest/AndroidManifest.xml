@@ -28,6 +28,24 @@
         android:testOnly="true"
         android:theme="@style/Theme.GrupoFacil" >
         <activity
+            android:name="com.example.grupofacil.ResumenActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grupofacil.ConfiguracionActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grupofacil.ParticipantesActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grupofacil.DescripcionActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grupofacil.NombreActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grupofacil.VerGrupoActivity"
+            android:exported="true" />
+        <activity
             android:name="com.example.grupofacil.MainActivity"
             android:exported="true" >
             <intent-filter>

@@ -3167,6 +3167,7 @@ int id auto 0x7f0a0054
 int id autoComplete 0x7f0a0055
 int id autoCompleteToEnd 0x7f0a0056
 int id autoCompleteToStart 0x7f0a0057
+int id backButton 0x7f0a01fa
 int id barrier 0x7f0a0058
 int id baseline 0x7f0a0059
 int id beginOnFirstDraw 0x7f0a005a
@@ -3255,6 +3256,7 @@ int id east 0x7f0a00aa
 int id edge 0x7f0a00ab
 int id edit_query 0x7f0a00ac
 int id elastic 0x7f0a00ad
+int id eliminarButton 0x7f0a01fb
 int id embed 0x7f0a00ae
 int id end 0x7f0a00af
 int id endToStart 0x7f0a00b0
@@ -3268,6 +3270,7 @@ int id fill 0x7f0a00b7
 int id fill_horizontal 0x7f0a00b8
 int id fill_vertical 0x7f0a00b9
 int id filled 0x7f0a00ba
+int id finalizarButton 0x7f0a01fc
 int id fitCenter 0x7f0a00bb
 int id fitEnd 0x7f0a00bc
 int id fitStart 0x7f0a00bd
@@ -3382,6 +3385,8 @@ int id mtrl_picker_text_input_range_start 0x7f0a0129
 int id mtrl_picker_title_text 0x7f0a012a
 int id mtrl_view_tag_bottom_padding 0x7f0a012b
 int id multiply 0x7f0a012c
+int id nameInput 0x7f0a01fd
+int id nameLabel 0x7f0a01fe
 int id navigation_bar_item_active_indicator_view 0x7f0a012d
 int id navigation_bar_item_icon_container 0x7f0a012e
 int id navigation_bar_item_icon_view 0x7f0a012f
@@ -3430,6 +3435,8 @@ int id parent_matrix 0x7f0a0158
 int id participantInput 0x7f0a01f7
 int id participantListLayout 0x7f0a01f8
 int id participantsLabel 0x7f0a01f9
+int id participantsPerGroupInput 0x7f0a01ff
+int id participantsPerGroupLabel 0x7f0a0200
 int id password_toggle 0x7f0a0159
 int id path 0x7f0a015a
 int id pathRelative 0x7f0a015b
@@ -3445,6 +3452,10 @@ int id radio 0x7f0a0164
 int id ratio 0x7f0a0165
 int id rectangles 0x7f0a0166
 int id report_drawn 0x7f0a0167
+int id resumenDescription 0x7f0a0201
+int id resumenGrupos 0x7f0a0202
+int id resumenScrollView 0x7f0a0203
+int id resumenTitle 0x7f0a0204
 int id reverseSawtooth 0x7f0a0168
 int id right 0x7f0a0169
 int id rightToLeft 0x7f0a016a
@@ -3566,6 +3577,10 @@ int id uniform 0x7f0a01dc
 int id unlabeled 0x7f0a01dd
 int id up 0x7f0a01de
 int id useLogo 0x7f0a01df
+int id verGrupoDescription 0x7f0a0205
+int id verGrupoParticipants 0x7f0a0206
+int id verGrupoScrollView 0x7f0a0207
+int id verGrupoTitle 0x7f0a0208
 int id vertical_only 0x7f0a01e0
 int id view_offset_helper 0x7f0a01e1
 int id view_transition 0x7f0a01e2
