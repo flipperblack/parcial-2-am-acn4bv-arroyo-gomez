@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.grupofacil">
+
 
     <application
         android:allowBackup="true"
@@ -12,18 +14,31 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GrupoFacil"
         tools:targetApi="31">
+
+
+        <activity android:name=".ResumenActivity" android:exported="true"></activity>
+        <activity android:name=".ConfiguracionActivity" android:exported="true"></activity>
+        <activity android:name=".ParticipantesActivity" android:exported="true"></activity>
+        <activity android:name=".DescripcionActivity" android:exported="true"></activity>
+        <activity android:name=".NombreActivity" android:exported="true"></activity>
+        <activity android:name=".VerGrupoActivity" android:exported="true"></activity>
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
     </application>
 
+
 </manifest>
+
