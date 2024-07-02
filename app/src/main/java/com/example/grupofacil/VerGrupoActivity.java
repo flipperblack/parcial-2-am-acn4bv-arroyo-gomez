@@ -37,11 +37,19 @@ public class VerGrupoActivity extends AppCompatActivity {
         TextView verGrupoParticipants = findViewById(R.id.verGrupoParticipants);
 
         StringBuilder participantsText = new StringBuilder();
-        for (String participant : groupParticipants) {
-            participantsText.append(participant).append("\n");
+
+        int grupoNumero = 1;
+        for (int i = 0; i < groupParticipants.size(); i++) {
+            if (i % participantsPerGroup == 0) {
+                participantsText.append("\n").append("Grupo ").append(grupoNumero).append(":\n");
+                grupoNumero++;
+            }
+            participantsText.append(groupParticipants.get(i)).append("\n");
         }
 
         verGrupoParticipants.setText(participantsText.toString());
+
+
 
         Button eliminarButton = findViewById(R.id.eliminarButton);
         Button backButton = findViewById(R.id.backButton);

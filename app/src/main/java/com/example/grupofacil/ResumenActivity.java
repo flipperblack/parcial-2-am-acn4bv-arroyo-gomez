@@ -36,7 +36,7 @@ public class ResumenActivity extends AppCompatActivity {
 
 
         TextView resumenTitle = findViewById(R.id.resumenTitle);
-        resumenTitle.setText("Confirmación: " + groupName);
+        resumenTitle.setText("Nombre de Grupo: " + groupName);
 
 
         TextView resumenDescription = findViewById(R.id.resumenDescription);
@@ -54,7 +54,7 @@ public class ResumenActivity extends AppCompatActivity {
         int grupoNumero = 1;
         for (int i = 0; i < groupParticipants.size(); i++) {
             if (i % participantsPerGroup == 0) {
-                resumenTexto.append("Grupo ").append(grupoNumero).append(":\n");
+                resumenTexto.append("\n").append("Grupo ").append(grupoNumero).append(":\n");
                 grupoNumero++;
             }
             resumenTexto.append(groupParticipants.get(i)).append("\n");
