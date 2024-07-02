@@ -3150,7 +3150,6 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
-id addButton
 id addParticipantButton
 id alertTitle
 id aligned

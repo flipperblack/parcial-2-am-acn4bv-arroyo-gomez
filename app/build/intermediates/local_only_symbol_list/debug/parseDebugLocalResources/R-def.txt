@@ -14,7 +14,6 @@ drawable ic_launcher_foreground
 drawable scrollview_background
 font poppins
 font poppins_semibold
-id addButton
 id addParticipantButton
 id backButton
 id descriptionInput

@@ -14,6 +14,7 @@
         android:textSize="24sp"
         android:layout_marginTop="17dp"
         app:layout_constraintTop_toTopOf="parent"
+        android:fontFamily="@font/poppins_semibold"
         tools:layout_editor_absoluteX="0dp" />
 
 
@@ -23,13 +24,16 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="17dp"
         app:layout_constraintTop_toBottomOf="@+id/resumenTitle"
+        android:fontFamily="@font/poppins_semibold"
         tools:layout_editor_absoluteX="0dp" />
 
 
     <ScrollView
         android:id="@+id/resumenScrollView"
-        android:layout_width="385dp"
-        android:layout_height="294dp"
+        android:layout_width="372dp"
+        android:layout_height="486dp"
+        android:background="@drawable/scrollview_background"
+        android:foregroundTint="@color/orange"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -40,6 +44,7 @@
             android:id="@+id/resumenGrupos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_semibold"
             android:padding="16dp" />
     </ScrollView>
 
@@ -48,10 +53,12 @@
         android:id="@+id/finalizarButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Finalizar"
+        android:text="Crear"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.51"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/poppins_semibold"
         app:layout_constraintStart_toEndOf="@+id/backButton" />
 
 
@@ -62,6 +69,8 @@
         android:layout_marginStart="80dp"
         android:text="Volver"
         app:layout_constraintBottom_toBottomOf="parent"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/poppins_semibold"
         app:layout_constraintStart_toStartOf="parent" />
 
 
