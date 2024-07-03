@@ -322,3 +322,45 @@ No tenemos mas interacciones planificadas por el momento con esta pantalla.
 ### Uso de algún tipo de convención para los commit
 
 Usamos conventional commits (salvo el primer commit que lo creo Github)
+
+
+---
+
+# Segundo Parcial ACN4BV
+
+### Arroyo Enrique
+### Gomez Marco
+
+Fecha de entrega: 3 de Julio
+
+---
+
+### Documentación:
+
+Informe:
+[https://docs.google.com/document/d/1zZq5mC8D5LgYv0v4dQq2d13lLg9TU8cJtCfWPMxOcY0/edit?usp=sharing](https://docs.google.com/document/d/1zZq5mC8D5LgYv0v4dQq2d13lLg9TU8cJtCfWPMxOcY0/edit?usp=sharing)
+
+Enlace Figma:
+https://www.figma.com/file/cCQOzfsbxEKUXRN4Pdj1IG/appmobile?type=design&node-id=0%3A1&mode=design&t=8mgNMV7bbDRfZTSs-1
+
+Enlace Github:
+[https://github.com/flipperblack/parcial-2-am-acn4bv-arroyo-gomez](https://github.com/flipperblack/parcial-2-am-acn4bv-arroyo-gomez)
+
+### Datos del Producto:
+
+**Nombre**: Grupo Fácil
+
+**Problema a resolver**:
+La organización y asignación de individuos en grupos definidos dentro de una entidad presenta complejidades operativas, específicamente en la asignación rápida y eficiente de individuos (estudiantes, deportistas, empleados, excursionistas, etc.) en equipos.
+
+**Objetivo:**
+Facilitar la creación, almacenamiento, visualización, actualización y eliminación (CRUD) de grupos aleatorios configurados por un número predefinido de integrantes, mediante una interfaz intuitiva creada en Android como aplicación móvil.
+
+**Propuesta de valor:**
+**Grupo Fácil** simplifica la creación y gestión de grupos dentro de cualquier organización, permitiendo al usuario formar equipos aleatorios y equitativos con rapidez y eficiencia. Ideal para educadores, gestores de recursos humanos y líderes de equipo, **Grupo Fácil** ofrece una solución intuitiva que ahorra tiempo y fomenta la equidad en la formación de grupos sin lugar a la subjetividad.
+
+**Aspectos técnicos:**
+Fuente: Poppins
+Paleta de colores consideradas para el proyecto:
+
+<img src="/README.RES/Untitled.png" width="300">
